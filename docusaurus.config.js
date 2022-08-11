@@ -66,7 +66,7 @@ const config = {
       },
       footer: {
         style: "dark",
-        copyright: `Copyright © ${new Date().getFullYear()} ERAYLEE, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} ERAYLEE . 鄂ICP备2022007383号-1`,
       },
       prism: {
         theme: lightCodeTheme,
