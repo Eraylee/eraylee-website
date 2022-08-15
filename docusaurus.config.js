@@ -66,7 +66,11 @@ const config = {
       },
       footer: {
         style: "dark",
-        copyright: `Copyright © ${new Date().getFullYear()} ERAYLEE . 鄂ICP备2022007383号-1`,
+        copyright: `Copyright © ${new Date().getFullYear()} ERAYLEE`,
+        links:[ {
+          label:'鄂ICP备2022007383号-1',
+          href: 'https://beian.miit.gov.cn/'
+        } ]
       },
       prism: {
         theme: lightCodeTheme,
